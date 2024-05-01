@@ -94,13 +94,13 @@ const CONFIG = {
 			id: '1',
 			name: 'tenda',
 			icon: 'router',
-			link: 'http://tendawifi.com/',
+			link: 'http://tenda.nisby44.duckdns.org/',
 		},
 		{
 			id: '2',
 			name: 'casaOS',
 			icon:'server',
-			link: 'http://192.168.0.177/#/',
+			link: 'http://casaos.nisby44.duckdns.org/#/',
 		},
 		{
 			id: '3',
