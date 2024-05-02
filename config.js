@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Element',
-			icon: 'atom',
+			icon: 'disc-3',
 			link: 'https://app.element.io/#/home',
 		},
 		{
