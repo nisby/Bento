@@ -134,7 +134,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'raspberry',
+			icon: 'server',
 			id: '1',
 			links: [
 				{
@@ -156,23 +156,23 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'library-big',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Family Link',
+					link: 'https://familylink.google.com/m',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Mastodon',
+					link: 'https://mastodon.social/home',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Footbal Live',
+					link: 'https://calcio.skin/streaming-gratis-calcio-1.php',
 				},
 				{
-					name: 'Slack',
+					name: 'Home Page Settings',
 					link: 'https://www.slack.com',
 				},
 			],
