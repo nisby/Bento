@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'bdae41622e7655ea3aeffb0c15aa9a60', // Write here your API Key
@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Element',
+			name: 'Navidrome',
 			icon: 'disc-3',
-			link: 'https://app.element.io/#/home',
+			link: 'https://music.nisby44.duckdns.org/app/#/album/all?sort=name&order=ASC&filter={}',
 		},
 		{
 			id: '3',
@@ -77,10 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name:' voyager',
-			icon: 'rocket',
-			link: 'https://vger.app/posts/lemmy.world/home',
-		},
+			name: 'Feedly',
+			icon: 'rss',
+			link: 'https://feedly.com/i/my',		},
 		{
 			id: '6',
 			name: 'twitch',
@@ -110,9 +109,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Feedly',
-			icon: 'rss',
-			link: 'https://feedly.com/i/my',
+			name:' voyager',
+			icon: 'rocket',
+			link: 'https://vger.app/posts/lemmy.world/home',
 		},
 		{
 			id: '5',
@@ -135,24 +134,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'raspberry',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'CasaOS',
+					link: 'https://casaos.nisby44.duckdns.org/#/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pi-hole',
+					link: 'https://pihole.nisby44.duckdns.org/admin/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gitea',
+					link: 'https://git.nisby44.duckdns.org/matteo/myfiles',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Router',
+					link: 'https://tenda.nisby44.duckdns.org/login.html',
 				},
 			],
 		},
