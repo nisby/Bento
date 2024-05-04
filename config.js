@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Navidrome',
 			icon: 'disc-3',
-			link: 'http://192.168.0.177:4533/app/#/album/all?sort=name&order=ASC&filter={}',
+			link: 'https://music.nisby44.duckdns.org/app/#/album/all?sort=name&order=ASC&filter={}',
 		},
 		{
 			id: '3',
@@ -93,13 +93,13 @@ const CONFIG = {
 			id: '1',
 			name: 'tenda',
 			icon: 'router',
-			link: 'http://tendawifi.com/',
+			link: 'http://tenda.nisby44.duckdns.org/',
 		},
 		{
 			id: '2',
 			name: 'casaOS',
 			icon:'server',
-			link: 'http://192.168.0.177/',
+			link: 'http://nisby44.duckdns.org/',
 		},
 		{
 			id: '3',
@@ -143,15 +143,15 @@ const CONFIG = {
 				},
 				{
 					name: 'AdGuard Home',
-					link: 'http://192.168.0.177:3032/',
+					link: 'https://nisby44.duckdns.org/',
 				},
 				{
 					name: 'Gitea',
-					link: 'http://192.168.0.177:3002/matteo/myfiles',
+					link: 'https://git.nisby44.duckdns.org/matteo/myfiles',
 				},
 				{
 					name: 'Router',
-					link: 'http://tendawifi.com/',
+					link: 'https://tenda.nisby44.duckdns.org/',
 				},
 			],
 		},
@@ -161,19 +161,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Family Link',
-					link: 'https://familylink.google.com/m',
+					link: 's://familylink.google.com/m',
 				},
 				{
 					name: 'Mastodon',
-					link: 'https://mastodon.social/home',
+					link: 's://mastodon.social/home',
 				},
 				{
 					name: 'Footbal Live',
-					link: 'https://calcio.skin/streaming-gratis-calcio-1.php',
+					link: 's://calcio.skin/streaming-gratis-calcio-1.php',
 				},
 				{
 					name: 'Home Page Settings',
-					link: 'https://github.com/nisby/Bento/edit/master/config.js',
+					link: 's://github.com/nisby/Bento/edit/master/config.js',
 				},
 			],
 		},
@@ -187,19 +187,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					link: 's://www.spotify.com',
 				},
 				{
 					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					link: 's://www.reddit.com',
 				},
 				{
 					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					link: 's://www.hashnode.com',
 				},
 				{
 					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					link: 's://www.pocket.com',
 				},
 			],
 		},
@@ -209,11 +209,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					link: 's://www.reddit.com/r/Frontend/',
 				},
 				{
 					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					link: 's://www.reddit.com/r/rust/',
 				},
 				{
 					name: 'Go',
