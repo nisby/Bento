@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Navidrome',
 			icon: 'disc-3',
-			link: 'https://music.nisby44.duckdns.org/app/#/album/all?sort=name&order=ASC&filter={}',
+			link: 'http://192.168.0.177:4533/app/#/album/all?sort=name&order=ASC&filter={}',
 		},
 		{
 			id: '3',
@@ -93,13 +93,13 @@ const CONFIG = {
 			id: '1',
 			name: 'tenda',
 			icon: 'router',
-			link: 'http://tenda.nisby44.duckdns.org/',
+			link: 'http://tendawifi.com/',
 		},
 		{
 			id: '2',
 			name: 'casaOS',
 			icon:'server',
-			link: 'http://casaos.nisby44.duckdns.org/#/',
+			link: 'http://192.168.0.177/',
 		},
 		{
 			id: '3',
@@ -139,19 +139,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'CasaOS',
-					link: 'https://casaos.nisby44.duckdns.org/#/',
+					link: 'http://192.168.0.177/',
 				},
 				{
-					name: 'Pi-hole',
-					link: 'https://pihole.nisby44.duckdns.org/admin/',
+					name: 'AdGuard Home',
+					link: 'http://192.168.0.177:3032/',
 				},
 				{
 					name: 'Gitea',
-					link: 'https://git.nisby44.duckdns.org/matteo/myfiles',
+					link: 'http://192.168.0.177:3002/matteo/myfiles',
 				},
 				{
 					name: 'Router',
-					link: 'https://tenda.nisby44.duckdns.org/login.html',
+					link: 'http://tendawifi.com/',
 				},
 			],
 		},
@@ -173,7 +173,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Home Page Settings',
-					link: 'https://www.slack.com',
+					link: 'https://github.com/nisby/Bento/edit/master/config.js',
 				},
 			],
 		},
