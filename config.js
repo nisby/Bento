@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Family Link',
-					link: 's://familylink.google.com/m',
+					link: 'https://familylink.google.com/m',
 				},
 				{
 					name: 'Mastodon',
