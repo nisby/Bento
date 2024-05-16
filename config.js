@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Gitea',
-					link: 'http://192.168.0.177:3002/matteo/myfiles',
+					link: 'http://git.nisby44.duckdns.org/matteo/myfiles',
 				},
 				{
 					name: 'Router',
