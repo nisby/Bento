@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Navidrome',
 			icon: 'disc-3',
-			link: 'http://192.168.0.177:4533/app/#/album/recentlyAdded?sort=recently_added&order=DESC&filter={}',
+			link: 'https://music.nisby44.duckdns.org/app/#/album/all?sort=name&order=ASC&filter={}',
 		},
 		{
 			id: '3',
@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Gitea',
-					link: 'http://192.168.0.177:3002/matteo/myfiles',
+					link: 'https://git.nisby44.duckdns.org/matteo/myfiles',
 				},
 				{
 					name: 'Router',
