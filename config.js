@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'CasaOS',
-					link: 'http://192.168.0.177/',
+					link: 'http://192.168.0.177:90/',
 				},
 				{
 					name: 'AdGuard Home',
