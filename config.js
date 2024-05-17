@@ -144,7 +144,7 @@ const CONFIG = {
 				},
 				{
 					name: 'AdGuard Home',
-					link: 'http://192.168.0.177:3032/',
+					link: 'https://dns.nisby44.duckdns.org/',
 				},
 				{
 					name: 'Gitea',
