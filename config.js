@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'CasaOS',
-					link: 'http://192.168.0.177:90/',
+					name: 'Portainer',
+					link: 'https://portainer.nisby44.duckdns.org/#!/home',
 				},
 				{
 					name: 'AdGuard Home',
